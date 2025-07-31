@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:VCO Education
+X-WR-TIMEZONE:Europe/London
+X-WR-CALDESC: VCO events happening in the Education tent
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20250831T180000Z
+DTSTART:20250831T173000Z
+SUMMARY:👨‍🏫 Theory of change: how can we make our outreach transformative? - Jo Dixon and Kit McGrath. Viva!
+UID:d09f0f88-35b6-4ac5-bb7a-bb469e0d1ce5@d09f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Harley Brewer is a UK-based climate and animal rights activist affiliated with Extinction Rebellion\, Just Stop Oil\, and the A22 Network. He works with Animal Rising to promote plant-based catering in schools\, supporting ethical and sustainable food systems. Brewer is active in advocating for climate justice and animal welfare causes.
+DTEND:20250831T141500Z
+DTSTART:20250831T134500Z
+SUMMARY:👨‍🏫 How Britain will become plant-based - Harley Brewer\, Animal Rising
+UID:86ec3bb0-0051-4bd2-b1be-3d5c29710ae6@86ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_2efa0b04f83d452b89d0d5710c6534b6~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Lifting%20Vegan%20Logic-500.png">What do they look like?</a>\n\nDanny Ishay\, also known as Lifting Vegan Logic is a vegan activist and content creator focused on using humor\, satire\, scientific research\, and logical argumentation to challenge anti-vegan arguments and expose the contradictions in common criticisms of veganism. Through his content\, he aims to dismantle misconceptions and bring a fresh\, rational perspective to the conversation around veganism.
+DTEND:20250830T180000Z
+DTSTART:20250830T173000Z
+SUMMARY:👨‍🏫 How to respond to anti-vegan nonsense - Danny Ishay with Dr Matthew Nagra\, ND
+UID:ed73fdc9-d88d-4208-8670-375ae0992311@ed73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Helen Taylor and Verel Rodrigues are sustainability experts at Ecotricity\, focused on combining renewable energy with ethical vegan and climate justice principles. Helen leads on sustainable systems and food policy\, while Verel works on partnerships and community engagement\, both advocating for a plant-based future.
+DTEND:20250829T211500Z
+DTSTART:20250829T204500Z
+SUMMARY:👨‍🏫 How to make your energy bills work for animals and the planet - Helen Taylor and Verel Rodrigues. Ecotricity
+UID:7d13d53f-f58e-4ad9-a7fa-28b7d6eca070@7d13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://sentientism.info/wp-content/uploads/2023/10/Molly-Elwood.jpg">What do they look like?</a>\n\nMolly Elwood is a writer\, creative strategist\, and animal rights activist known for her satirical project\, Elwood’s Organic Dog Meat. Launched in 2021\, this fictional farm parody uses dark humour to critique the meat industry and challenge speciesism by highlighting the cognitive dissonance in how society views dogs versus other animals. The project has gained significant attention\, with over 4 million website visitors and widespread media coverage. Elwood’s work has inspired many to reconsider their food choices and adopt veganism.
+DTEND:20250830T184500Z
+DTSTART:20250830T181500Z
+SUMMARY:👨‍🏫 What I've learned farming dogs for meat - Molly Elwood\, Elwood's Organic Dog Meat
+UID:699bb301-b272-4d41-9ea9-6dc149463109@699b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250831T201500Z
+DTSTART:20250831T194500Z
+SUMMARY:👨‍🏫 This is how we win for animals - We The Free
+UID:7e07512c-b90a-4a97-afb1-e45a077768f5@7e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Clif Grant is a Northern Irish vegan animal rights advocate known for grassroots activism in Belfast with “Meat The Victims.” Traumatized by animal cruelty as a child\, he became vegan at 43 inspired by Gary Yourofsky. His activism involves engaging public conversations using thought-provoking signs and surveys on speciesism and animal abuse.
+DTEND:20250831T154500Z
+DTSTART:20250831T151500Z
+SUMMARY:👨‍🏫 Relentless - Clif Grant
+UID:57a244e8-6f65-4c56-a3ac-01637e8763fa@57a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:David Ramms is a vegan animal rights activist\, videographer\, photographer\, and public speaker known for his candid approach to advocacy. He has investigated factory farms\, small-scale farms\, and slaughterhouses worldwide\, gaining firsthand insight into animal exploitation. Ramms uses comedy to challenge both 'meatflakes' and 'vegan wokeflakes\,' aiming to foster unity within the movement. He actively contributes to discussions on vegan unity and activism.
+DTEND:20250830T160000Z
+DTSTART:20250830T153000Z
+SUMMARY:👨‍🏫 How you were tricked into eating animals - David Ramms
+UID:19e1b257-1a12-48e4-8519-9e17b45956a5@19e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Carlos Barbon\, born in Germany and based in Spain\, is a vegan strength athlete and dedicated animal rights activist. Turning vegetarian at 14 and vegan later\, he excelled in powerlifting\, growing from a thin teen to champion. For eight years\, he has actively campaigned to end bullfighting in Spain.
+DTEND:20250831T193000Z
+DTSTART:20250831T190000Z
+SUMMARY:👨‍🏫 Tauromaquia: the struggle to end bullfighting in Spain - Carlos Barbon
+UID:93722cd8-c641-45ab-96de-e6970dd5e0a7@9372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Libby Peppiatt is the Chief Executive Officer of The Vegan Society and a passionate vegan advocate. With a background in human rights and mental health charities\, she focuses on promoting veganism\, animal rights\, and food justice through compassionate leadership and inclusive community-building to make veganism mainstream and drive lasting social change.
+DTEND:20250830T114500Z
+DTSTART:20250830T110000Z
+SUMMARY:👨‍🏫 Holding the weight: strategies for dealing with being vegan in a non-vegan world - Libby Peppiatt. CEO of the Vegan Society
+UID:683d81d9-7f39-46ab-8fb3-7a712a16d8c4@683d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250831T110000Z
+DTSTART:20250831T100000Z
+SUMMARY:👨‍🏫 Superstar plant-based doctors answer your questions
+UID:e25fae3b-5250-4bdd-8fef-dbcdb6ec0746@e25f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Melda Ece Gerncisoy is a scholar-activist and PhD researcher in the UK focusing on animal rights and vegan sociology. She studied Politics and Sociology at Durham and completed a master’s in Management with a focus on animals and ethics. Since 2017\, she has worked with groups like The Vegan Society and Animal Equality\, advocating for animal welfare and social change.
+DTEND:20250830T104500Z
+DTSTART:20250830T100000Z
+SUMMARY:👨‍🏫 80 years of the word 'vegan': what can we learn from the pioneers who set up The Vegan Society? - Melda Ece Gerncisoy\, Society Research
+UID:863b74c4-d11c-4372-9a88-c016eaf9d8c8@863b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jacqui and Fiaz run The Base Retreat Animal Sanctuary\, combining their hospitality skills with a deep compassion for rescued rabbits and chickens. They actively campaign with Camp Beagle against animal testing. Their sanctuary welcomes guests with companion animals\, offering lifelong care to rescued small animals and promoting kindness through hands-on rescue and education.
+DTEND:20250831T124500Z
+DTSTART:20250831T121500Z
+SUMMARY:👨‍🏫 Do you dream of having an animal sanctuary? - Jacqui & Fiaz\, The Base Vegan Retreat Animal Sanctuary
+UID:85d55cac-9a82-4689-a29c-6a1d4278021e@85d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250831T163000Z
+DTSTART:20250831T160000Z
+SUMMARY:👨‍🏫 The Animal Rights movement\, 2020-now: lessons from a defining half-decade - Devon Doherty
+UID:ed4c27cd-b84b-4012-91a5-a888f5dd26fd@ed4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250830T171500Z
+DTSTART:20250830T161500Z
+SUMMARY:👨‍🏫 How does the Vegan Society engage to influence policymaking and how can you help us? - Claire Ogley
+UID:b6e3463d-ba24-4a85-a02b-293247cd68f4@b6e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:James Hattersley and Jen Deighan-Schenk co-founded We The Free\, an organisation dedicated to animal rights and vegan advocacy. James brings over a decade of social care experience\, while Jen applies her background in community development and conflict resolution. Together\, they lead global campaigns\, outreach\, and training initiatives for grassroots activists.
+DTEND:20250831T150000Z
+DTSTART:20250831T143000Z
+SUMMARY:👨‍🏫 How to talk to non-vegans - James Hattersley & Jen Deighan-Schenk
+UID:50103ed9-ed81-4b06-b4f5-b3ed4801d886@5010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hannah Montgomery is the Campaigns Manager at The Vegan Society\, where she leads initiatives promoting veganism with a focus on food\, environment\, and health. With a background in English and Journalism\, she brings over a decade of experience in campaign development and communications. She has contributed to discussions on barriers to veganism and the future of plant-based living.
+DTEND:20250830T143000Z
+DTSTART:20250830T134500Z
+SUMMARY:👨‍🏫 What can one person do? Using people power campaigns to drive change in communities - Hannah Montgomery\, Campaigns Manager at The Vegan Society
+UID:f7aca7ef-613a-4001-a537-d7b182e6e3a3@f7ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tom Harris began activism at 15\, co-founding SARC and campaigning successfully against animal cruelty. He was imprisoned for SHAC activism\, now fighting injustice and repression. Since release\, he co-founded Dorset Animal Action and advises key groups. Tom is a respected speaker and media expert on animal liberation and rights campaigns.
+DTEND:20250831T133000Z
+DTSTART:20250831T130000Z
+SUMMARY:👨‍🏫 Building local groups. The power of community organising - Tom Harris\, Project Phoenix
+UID:4131a5aa-4b76-4219-8ece-f06ad81abb85@4131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Edie Bowles is a solicitor specializing in animal protection law. She is the Managing Director of Advocates for Animals\, the UK’s first animal law firm\, and the founder of The Animal Law Foundation\, a charity focused on legal research and enforcement in animal welfare. Bowles has advised numerous animal protection organizations and individuals on various legal issues\, including the Animal Welfare Act\, the Zoo Licensing Act\, and Vegan Rights Law. She has spoken on animal protection matters in the UK Parliament\, the French Senate\, and the East African Legislative Assembly.
+DTEND:20250830T193000Z
+DTSTART:20250830T190000Z
+SUMMARY:👨‍🏫 Food chain misinformation - Edie Bowles. The Animal Law Foundation
+UID:2371ba75-cf34-4f96-8b99-21d85e486073@2371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Born in Kazakhstan and now UK-based\, Jo Dixon brings psychology\, arts\, and politics expertise to vegan advocacy. As Advocacy Ambassador and Director at We The Fee and UK Liaison for Our Planet Theirs Too\, they champion unity\, professionalism\, and global collaboration\, helping organise National Animal Rights Day across nearly 200 cities worldwide.
+DTEND:20250831T184500Z
+DTSTART:20250831T181500Z
+SUMMARY:👨‍🏫 The hidden cage inside the movement (shame & punishment) - Sasha (Sash) Jolliffe Yasawi
+UID:1c2d06af-ed6a-4452-969e-e318cf98a38c@1c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tom Gardener and Sarah Foy co-founded Vegans Support the Farmers\, a UK initiative bridging the gap between vegan activists and farmers. They advocate for fair pricing\, mental health support\, and greater farmer representation in policymaking. Their work promotes open dialogue and collaboration to create a just\, sustainable\, and compassionate transition to a plant-based food system benefiting animals and farming communities.
+DTEND:20250831T210000Z
+DTSTART:20250831T203000Z
+SUMMARY:👨‍🏫 The Import Imperative: why vegans and farmers must challenge substandard food imports together - Tom Gardener and Sarah Foy
+UID:4d7a6950-d0c4-45a2-a477-c0a4f8c73251@4d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:John Oberg is a vegan animal advocate who uses social media to promote compassion. Vegan since 2009 and a full-time activist since 2012\, he has made 200+ media appearances and gained over 300\,000 followers. His posts have been seen 500 million times\, inspiring thousands and offering online courses in activism.
+DTEND:20250830T124500Z
+DTSTART:20250830T120000Z
+SUMMARY:👨‍🏫 The social media megaphone: going viral for the voiceless - John Oberg
+UID:48fae0a7-c298-4bfd-b86a-51b9eceb4185@48fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ben Freedman is the Campaigns Manager at Viva!\, a UK-based animal rights organisation\, where he leads the campaigns team with a focus on impactful initiatives like Eating the Earth and Killer Yoghurts. He brings creative leadership to campaigns aimed at promoting plant-based lifestyles and environmental sustainability.
+DTEND:20250830T133000Z
+DTSTART:20250830T130000Z
+SUMMARY:👨‍🏫 Cutting through the noise: Powerful campaigns for animals - Ben Freedman\, Viva!
+UID:3d598823-76dd-4042-829f-9defbb3f51a3@3d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Chrys McLaren is a vegan advocate and community organiser with The Vegan Society\, focusing on outreach and education. She has been vegan since 2015 and serves as a trustee and EDI (Equality\, Diversity\, and Inclusion) Champion for the organisation. Bella Kelsey is a Community Coordinator at The Vegan Society and a student of Environmental Sociology. She is also involved in charity fundraising at Children First Derby. Both individuals are actively engaged in promoting veganism and animal rights through their respective roles and initiatives.
+DTEND:20250830T204500Z
+DTSTART:20250830T194500Z
+SUMMARY:👨‍🏫 Changing the world one conversation at a time: why join The Vegan Society's Community Network? - Chrys McLaren and Bella Kelsey
+UID:4ab7dc10-74e6-450a-abac-10b9c48c2165@4ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Humane Hancock\, is a filmmaker and animal advocate known for his educational content on animal ethics and veganism. Through his YouTube channel and social media\, he explores the ethics of animal agriculture\, wild animal suffering\, and broader issues in animal rights. His work focuses on raising awareness\, promoting veganism\, and encouraging ethical reflection\, often through collaboration with other activists and organisations.
+DTEND:20250829T183000Z
+DTSTART:20250829T170000Z
+SUMMARY:👨‍🏫 Secret Screening PLUS with Humane Hancock
+UID:6be1cfb3-7c66-4f21-8cce-7ba62b7950ad@6be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_87a8d7dc6429450fbc06476dffa22bdf~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Juliet%20Gellatley-500.png">What do they look like?</a>\n\nIn 1994 Juliet founded Viva! - the biggest vegan charity in Europe. She also launched Viva! Poland in 2001 - one of the biggest animal protection groups in Central Europe. Juliet has created and launched numerous campaigns and written several reports\, guides and books\, including The Silent Ark\, Born to be Wild\, Vegan New Parents’ Guide\, Healthy Vegan Kids\, Why You Don’t Need Dairy and Nutrition in a Nutshell. She has filmed and exposed many factory farms\, severely embarrassing major companies and supermarkets - many of which changed policies. Juliet filmed at the notorious Hogwood pig farm that supplied Tesco\, and is producer of the documentary\, Hogwood: a modern horror story\, airing on Netflix in 2022. Juliet and her team created the first vegan cinema ad and Viva!’s first vegan TV ad. Juliet is an inspirational\, fun and informative speaker and has made many media appearances across the world. She has a degree in zoology and psychology\; diploma in direct marketing and is a qualified nutritional therapist. Visit viva.org.uk
+DTEND:20250831T171500Z
+DTSTART:20250831T164500Z
+SUMMARY:👨‍🏫 Q&A with Alexis Gauthier & Juliet Gellatley\, Viva!
+UID:850d5d14-d40d-4311-a257-7616e0d85c9e@850d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Rose Patterson is a co-director and campaign lead at Animal Rising\, known for organising bold direct actions to challenge animal exploitation and raise awareness about ethical food systems. Bini Pitwell is a campaigner with the Coalition Against Factory Farming (CAFF)\, focusing on empowering communities to resist factory farm developments\; they are also the author of Amazing Friends\, a children’s book supporting dog rescue efforts. Maya Pardo works as a legal researcher at The Vegan Society and serves as a trustee for The Animal Advocacy Project\; she co-authored the Rights of Nature Toolkit\, a legal guide helping communities in England and Wales protect rivers through a nature-rights framework.
+DTEND:20250829T191500Z
+DTSTART:20250829T184500Z
+SUMMARY:👨‍🏫 How Animal Rising will demolish factory farming - Rose Patterson. Bini Pitwell. Maya Pardo from Animal Rising & CAFF
+UID:b2c4e426-0c0e-4bcf-8d2b-80eeb16048d5@b2c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Paul Bashir is a key organiser with Anonymous for the Voiceless\, known for powerful street outreach campaigns raising awareness of animal cruelty worldwide.
+DTEND:20250829T203000Z
+DTSTART:20250829T193000Z
+SUMMARY:👨‍🏫 Vegan Outreach at its finest - Paul Bashir. Anonymous for the Voiceless
+UID:988946a2-5619-4e86-b47c-2625613a39d7@9889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="Dr. Alan Desmond is an Irish consultant gastroenterologist and advocate for plant-based nutrition. He specializes in inflammatory bowel disease and practices at the Devon Gut Clinic in Torquay. Desmond authored The Plant-Based Diet Revolution\, offering a 28-day guide to improving gut health through a whole-food\, plant-based diet. He is also a fellow of the Royal College of Physicians and an ambassador for Plant-Based Health Professionals UK. Desmond actively shares evidence-based dietary advice on social media platforms.">What do they look like?</a>\n\n
+DTEND:20250830T151500Z
+DTSTART:20250830T144500Z
+SUMMARY:👨‍🏫 What your doctor isn't telling you about food - Dr Alan Desmond
+UID:5ec68e82-dff1-4ba4-95f8-f4ef468f8df6@5ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:John Curtin is a UK animal rights activist with 40+ years of experience. He campaigns against animal testing\, fur\, live exports\, and hunt sabotage. Since 2021\, he’s been a leading figure at Camp Beagle\, the longest-running protest camp targeting a beagle breeding facility for laboratory testing.
+DTEND:20250831T120000Z
+DTSTART:20250831T111500Z
+SUMMARY:👨‍🏫 The art of NEVER GIVE UP as practised by Camp Beagle - John Curtin
+UID:09ff37b5-ffcf-43a4-a5b3-236ee6cd383f@09ff.org
+END:VEVENT
+END:VCALENDAR
