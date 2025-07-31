@@ -5,135 +5,135 @@ X-WR-CALDESC: VCO events happening in the Music Stage tent
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Watch on Youtube: https://www.youtube.com/shorts/3B35WTLUMbw
-DTEND:20250831T003000Z
-DTSTART:20250830T220000Z
-SUMMARY:🎤 BOSH! Afterparty (House/ Electronic / D&B / Jungle)
-UID:e788d3ae-6990-4b7b-ae6f-442c962e7efe@e788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_be2dd37326d24139bde1bb6ab5e5e90f~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/The%20Vegan%20Queens-500.png">What do they look like?</a>\n\nWatch on Youtube: https://www.youtube.com/watch?v=wgw0C00zApc
-DTEND:20250831T173500Z
-DTSTART:20250831T170500Z
-SUMMARY:🎤 The Vegan Queens (Drag / Cabaret)
-UID:fa2b92f3-f8a5-4839-bfb0-bebfaa9b9444@fa2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_e5582187b6d14646ae5fef4a4458aab9~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/jive%20aces_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2
-DTEND:20250831T184500Z
-DTSTART:20250831T181500Z
-SUMMARY:🎤 The Jive Aces (Swing)
-UID:dd1f7353-10c0-4fdc-ad6c-6b64a079623b@dd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_9be82a351174475fab998c56e21e7954~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/kitten%20pyramid_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/7hT6PYizrO3QYIx6CVDGsT
-DTEND:20250830T124500Z
-DTSTART:20250830T122500Z
-SUMMARY:🎤 Kitten Pyramid (Indie / Rock)
-UID:ab7ae092-8642-4195-8650-5b314f85757f@ab7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_75f77a5a7efe46448277ddd83edff33d~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/ashley.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH?si=T6ge4L-iSx629Jn9iDlzSA
-DTEND:20250831T203000Z
-DTSTART:20250831T194500Z
-SUMMARY:🎤 Ashley Singh (Pop / Acoustic)
-UID:19089937-6b20-40dc-8f23-337ecf107675@1908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://f4.bcbits.com/img/a0613347007_10.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/5frNVuboQa8JJm9809XDw7?si=TJ8g1Y_zTpmYQJ707I1P1w
-DTEND:20250831T151500Z
-DTSTART:20250831T144500Z
-SUMMARY:🎤 Danny Groenland (Soul / R&B)
-UID:b2426561-69b7-4e1d-9961-b5ea09392ef2@b242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_8d0910f4d3cc48679afc162ea0f2448d~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/snake%20eyes_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91
-DTEND:20250830T171000Z
-DTSTART:20250830T164000Z
-SUMMARY:🎤 Snake Eyes (Grit-Rock)
-UID:45f40818-2593-4b05-a2a5-8c01763e2795@45f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_59086163ee2e43e9ba3732f594dd1e66~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Charlotte%20Devaney-500.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/58quCP7j2McEeEtRungVle
-DTEND:20250830T193000Z
-DTSTART:20250830T190000Z
-SUMMARY:🎤 Charlotte Devaney DJ Set (Bass / Electronic)
-UID:5993cad2-1fd4-4dcc-9acf-bf9edd32b35d@5993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_ef0b3398152243319369112b7f6ab225~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/MS_GoldenLion2024-00541_edited.jpg">What do they look like?</a>\n\nWatch on Youtube: https://www.youtube.com/watch?v=ztTiqmcoIe4
-DTEND:20250831T125500Z
-DTSTART:20250831T122500Z
-SUMMARY:🎤 Mother Sugar (Neo-Soul / Jazz)
-UID:ce04652f-eb10-40df-ac22-e91439c579eb@ce04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_430d0f2f241a4b0c91d3bc5ef8127a31~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/endless%20swar%2C.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0Mt971osfNFxZ3X6jqFwXf
-DTEND:20250831T140500Z
-DTSTART:20250831T133500Z
-SUMMARY:🎤 Endless Swarm (Hardcore / Punk)
-UID:4f0f2043-fd8c-4a45-8e9b-e4991322d445@4f0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_7cf095662beb4f3d8f92523753508f4e~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/the%20rabbitts.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/20fBRSsvDK3GmHQKcpZ3DH
-DTEND:20250830T134000Z
-DTSTART:20250830T131000Z
-SUMMARY:🎤 The Rabbitts (Folk)
-UID:e0e341cb-a0f9-467d-8fdf-308dc0f85f14@e0e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_2cf6975120d541ccbaf5f650248dd30b~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/callixx_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/7LrqqW0yCdVoyihaH3fB9k
-DTEND:20250831T115000Z
-DTSTART:20250831T112500Z
-SUMMARY:🎤 Callix (Rap / Trap)
-UID:cd278c65-461f-40f9-9e8a-2d5e0d872ec5@cd27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_8a775c3617554a6a9ceb9b4a2294b44b~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/kay%20irir_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4Q2D0fF2I2YMrTe900rZgt
-DTEND:20250830T160000Z
-DTSTART:20250830T153000Z
-SUMMARY:🎤 Kay Iris (Americana)
-UID:335cabe0-a601-4fa6-a9dc-cf9f1fc41175@335c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_03ac5c0671c141bba9c92ec62a86d2dd~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/emma%20stevens.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW
-DTEND:20250831T162500Z
-DTSTART:20250831T155500Z
-SUMMARY:🎤 Emma Stevens (Pop / Folk)
-UID:324e7c4e-c780-4e4b-aac3-fbf4f1f95407@324e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_be5aba576e5a4650beed969f5cbc5dfd~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/to%20the%20grave_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ
-DTEND:20250830T182000Z
-DTSTART:20250830T175000Z
-SUMMARY:🎤 To The Grave (Deathcore / Death Metal)
-UID:82306ece-1b4a-4787-b414-80b5f29b5e5c@8230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_5734d8e5c3c7478c86868e7b27f76487~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Josh-Franceschi-500.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48?si=DN1ilF7tTnafEr-oQUfg4g
-DTEND:20250831T230000Z
-DTSTART:20250831T210000Z
-SUMMARY:🎤 Josh Franceschi (You Me at Six) Afterparty (Rock/ Metal / Punk)
-UID:ab480d16-881c-452c-822e-718dad3a65f8@ab48.org
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_b50b8dd1d49a4d148df8708752d336b5~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/inspeckta%20veg_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/5JDNCfQDgAsJzkNKuR166Z
+DTEND:20250830T145000Z
+DTSTART:20250830T142000Z
+SUMMARY:🎤 Inspeckta Veg (Grime / Rap)
+UID:9a9316b1-ebc7-4e52-9e46-4065356532c2@9a93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_70e1e0d81f0c405fb2eae333af4002f2~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Mobius-Loop-500.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/5oNIzbywDZ62fwhfkuusBK
 DTEND:20250830T214500Z
 DTSTART:20250830T204500Z
 SUMMARY:🎤 Mobius Loop (Folk)
-UID:f1296a80-bf25-41c9-9dc5-488fa11fcbc8@f129.org
+UID:992cd44a-5c2e-4efa-8f2e-cbaccd0b701f@992c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_b50b8dd1d49a4d148df8708752d336b5~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/inspeckta%20veg_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/5JDNCfQDgAsJzkNKuR166Z
-DTEND:20250830T145000Z
-DTSTART:20250830T142000Z
-SUMMARY:🎤 Inspeckta Veg (Grime / Rap)
-UID:d6657019-9133-45db-8c4d-6a2cbcd0ded5@d665.org
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_75f77a5a7efe46448277ddd83edff33d~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/ashley.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH?si=T6ge4L-iSx629Jn9iDlzSA
+DTEND:20250831T203000Z
+DTSTART:20250831T194500Z
+SUMMARY:🎤 Ashley Singh (Pop / Acoustic)
+UID:2de28d1a-47bc-4c04-9a94-d23ba4263e5e@2de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_03ac5c0671c141bba9c92ec62a86d2dd~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/emma%20stevens.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW
+DTEND:20250831T162500Z
+DTSTART:20250831T155500Z
+SUMMARY:🎤 Emma Stevens (Pop / Folk)
+UID:edd065c9-a631-4e5d-a538-b8bba28d44d7@edd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_9be82a351174475fab998c56e21e7954~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/kitten%20pyramid_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/7hT6PYizrO3QYIx6CVDGsT
+DTEND:20250830T124500Z
+DTSTART:20250830T122500Z
+SUMMARY:🎤 Kitten Pyramid (Indie / Rock)
+UID:e108dd2c-61cc-4eb7-8992-8df7f1a5a1b0@e108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_e5582187b6d14646ae5fef4a4458aab9~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/jive%20aces_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3hR8kE1jAgMhut0Daw3EL2
+DTEND:20250831T184500Z
+DTSTART:20250831T181500Z
+SUMMARY:🎤 The Jive Aces (Swing)
+UID:b5f61114-e666-4548-af39-9030f31ab1a1@b5f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_be2dd37326d24139bde1bb6ab5e5e90f~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/The%20Vegan%20Queens-500.png">What do they look like?</a>\n\nWatch on Youtube: https://www.youtube.com/watch?v=wgw0C00zApc
+DTEND:20250831T173500Z
+DTSTART:20250831T170500Z
+SUMMARY:🎤 The Vegan Queens (Drag / Cabaret)
+UID:d76c1d30-1698-4497-80b7-e829446a8237@d76c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_59086163ee2e43e9ba3732f594dd1e66~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Charlotte%20Devaney-500.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/58quCP7j2McEeEtRungVle
+DTEND:20250830T193000Z
+DTSTART:20250830T190000Z
+SUMMARY:🎤 Charlotte Devaney DJ Set (Bass / Electronic)
+UID:f9c145dc-6b21-4185-9396-d388dca35322@f9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_2cf6975120d541ccbaf5f650248dd30b~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/callixx_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/7LrqqW0yCdVoyihaH3fB9k
+DTEND:20250831T115000Z
+DTSTART:20250831T112500Z
+SUMMARY:🎤 Callix (Rap / Trap)
+UID:61fd427d-8261-4748-acd2-ec0c2253915a@61fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://f4.bcbits.com/img/a0613347007_10.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/5frNVuboQa8JJm9809XDw7?si=TJ8g1Y_zTpmYQJ707I1P1w
+DTEND:20250831T151500Z
+DTSTART:20250831T144500Z
+SUMMARY:🎤 Danny Groenland (Soul / R&B)
+UID:605234b2-245a-4968-9b0c-3a936bfb51bf@6052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_430d0f2f241a4b0c91d3bc5ef8127a31~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/endless%20swar%2C.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0Mt971osfNFxZ3X6jqFwXf
+DTEND:20250831T140500Z
+DTSTART:20250831T133500Z
+SUMMARY:🎤 Endless Swarm (Hardcore / Punk)
+UID:8c578cd5-0fad-424c-806f-e996ed65c42a@8c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_8a775c3617554a6a9ceb9b4a2294b44b~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/kay%20irir_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4Q2D0fF2I2YMrTe900rZgt
+DTEND:20250830T160000Z
+DTSTART:20250830T153000Z
+SUMMARY:🎤 Kay Iris (Americana)
+UID:17b91541-0061-4e99-9d1a-bc4c85273858@17b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_ef0b3398152243319369112b7f6ab225~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/MS_GoldenLion2024-00541_edited.jpg">What do they look like?</a>\n\nWatch on Youtube: https://www.youtube.com/watch?v=ztTiqmcoIe4
+DTEND:20250831T125500Z
+DTSTART:20250831T122500Z
+SUMMARY:🎤 Mother Sugar (Neo-Soul / Jazz)
+UID:bfbc6d4c-e151-43ab-9e17-1f33f807cf61@bfbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_7cf095662beb4f3d8f92523753508f4e~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/the%20rabbitts.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/20fBRSsvDK3GmHQKcpZ3DH
+DTEND:20250830T134000Z
+DTSTART:20250830T131000Z
+SUMMARY:🎤 The Rabbitts (Folk)
+UID:22a3ee2f-a923-43a6-95a8-9bcf46a0b41d@22a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_8d0910f4d3cc48679afc162ea0f2448d~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/snake%20eyes_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0wgafapEtlYucTrMZdFb91
+DTEND:20250830T171000Z
+DTSTART:20250830T164000Z
+SUMMARY:🎤 Snake Eyes (Grit-Rock)
+UID:0f6f5a44-3fd6-4002-986a-07ad686622aa@0f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Watch on Youtube: https://www.youtube.com/shorts/3B35WTLUMbw
+DTEND:20250831T003000Z
+DTSTART:20250830T220000Z
+SUMMARY:🎤 BOSH! Afterparty (House/ Electronic / D&B / Jungle)
+UID:33ed265f-fb31-48af-851d-67b623495b57@33ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_5734d8e5c3c7478c86868e7b27f76487~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Josh-Franceschi-500.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/1TUHJZ0mNtVimkplNEki48?si=DN1ilF7tTnafEr-oQUfg4g
+DTEND:20250831T230000Z
+DTSTART:20250831T210000Z
+SUMMARY:🎤 Josh Franceschi (You Me at Six) Afterparty (Rock/ Metal / Punk)
+UID:33adcf79-792d-48c3-882f-2344aaf7fe6f@33ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_be5aba576e5a4650beed969f5cbc5dfd~mv2.jpg/v1/fill/w_213\,h_213\,al_c\,q_80\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/to%20the%20grave_edited.jpg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3jr9qsKWQjf3iMNQ3rWVDQ
+DTEND:20250830T182000Z
+DTSTART:20250830T175000Z
+SUMMARY:🎤 To The Grave (Deathcore / Death Metal)
+UID:657a6ef0-9028-4d96-bbbe-42f6c09ead67@657a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250830T003000Z
 DTSTART:20250829T214500Z
 SUMMARY:🎤 70s / 80s Pre-Party
-UID:dc01cb81-e29c-403d-84c3-ea8a1aa15ff9@dc01.org
+UID:b514c1c2-fbd6-4b78-8717-25c0b25e87cd@b514.org
 END:VEVENT
 END:VCALENDAR
