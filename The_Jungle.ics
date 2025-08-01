@@ -5,262 +5,271 @@ X-WR-CALDESC: VCO events happening in the The Jungle tent
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20250829T170000Z
-DTSTART:20250829T160000Z
-SUMMARY:🦍 Reggae (Lioness Power)
-UID:e9737788-a047-4792-ad25-b4a685ee96cf@e973.org
+DESCRIPTION:<a href="https://i.imgur.com/tVcQCC4.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv?si=ooCM6SIfSOytcimqemxz0g
+DTEND:20250829T160000Z
+DTSTART:20250829T152000Z
+SUMMARY:🦍 EDM/Rap (Jack Light)
+UID:ba56b4d9-38ab-4177-85ee-07cce8ca62ef@ba56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250829T190000Z
-DTSTART:20250829T180000Z
-SUMMARY:🦍 Grime (Lucas Brooks)
-UID:12abefc0-7fa8-4198-8395-82b637a991ec@12ab.org
+DTEND:20250831T134500Z
+DTSTART:20250831T130000Z
+SUMMARY:🦍 Soul / Funk (Beavs)
+UID:6d2cfc24-9f9d-456c-ac18-14ea7d222ffe@6d2c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://open.spotify.com/artist/2Y2OW4zUqEd2LVAKsmz6JE?si=GDZucza-RVuIKGCOMNHvlA
-DTEND:20250830T173000Z
-DTSTART:20250830T163000Z
-SUMMARY:🦍 Dubstep (Billund the Kid)
-UID:00780c40-cb71-469a-b359-cd50eabdc4cf@0078.org
+DTEND:20250831T160000Z
+DTSTART:20250831T151500Z
+SUMMARY:🦍 House (Lucas Brooks)
+UID:2b706d86-2cf8-46e2-8be8-94f2c5388f4c@2b70.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250831T210000Z
-DTSTART:20250831T200000Z
-SUMMARY:🦍 Pop (Chris Hines)
-UID:7746dfb8-2fb4-4808-9196-b5eb4268dfdf@7746.org
+DESCRIPTION:<a href="https://i.imgur.com/brjxKD1.jpeg">What do they look like?</a>\n\nListen on Soundcloud: https://soundcloud.com/morgan_thomas_mt
+DTEND:20250829T152000Z
+DTSTART:20250829T144000Z
+SUMMARY:🦍 Gabber / Hard House (Morgan Thomas)
+UID:8484642b-4a9e-4c25-86a2-a7c014aa0fa4@8484.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250831T143000Z
-DTSTART:20250831T134500Z
-SUMMARY:🦍 Reggae (Lucas Brooks)
-UID:32ef67cd-eaad-4c72-a417-f40b0e73d79a@32ef.org
+DESCRIPTION:Listen on Soundcloud: https://soundcloud.com/chrishinesmusic
+DTEND:20250829T200000Z
+DTSTART:20250829T190000Z
+SUMMARY:🦍 Emo (Chris Hines)
+UID:379e6aef-f6a7-4195-a2d0-a2214722c027@379e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/Yf4Splj.jpeg">What do they look like?</a>\n\n
+DTEND:20250829T144000Z
+DTSTART:20250829T140000Z
+SUMMARY:🦍 Psychedelic / Ecstatic Dance (Abi Nimmo)
+UID:b01ff19d-3bf5-46ca-b5ce-9418ec11fef8@b01f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/JQcc1Vp.jpeg">What do they look like?</a>\n\n
+DTEND:20250830T193000Z
+DTSTART:20250830T183000Z
+SUMMARY:🦍 Drum and Bass (George Martin - Carnism Debunked)
+UID:3ddef314-0b41-4ea5-b11b-8eb2f7fc8863@3dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/IAfHQfZ.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250828T151500Z
+DTSTART:20250828T143000Z
+SUMMARY:🦍 Bassline (Lucas Brooks)
+UID:fdd4e17c-e415-43eb-9aab-89940d2d29a7@fdd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/sZib5ef.jpeg">What do they look like?</a>\n\nListen On metaldevastationradio: https://www.metaldevastationradio.com/
+DTEND:20250828T173000Z
+DTSTART:20250828T164500Z
+SUMMARY:🦍 Metal - Death / Black / Thrash / NWOBHM / Groove (Elric Newby)
+UID:f9963a1f-78e5-4509-95c4-b0f0f080070c@f996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/2W4iEDN.jpeg">What do they look like?</a>\n\nListen On Soundcloud: https://soundcloud.com/deccyjarrett
+DTEND:20250829T180000Z
+DTSTART:20250829T170000Z
+SUMMARY:🦍 R&B (Deccy Jarrett)
+UID:dbd58391-a8df-4db3-b41e-4cdb6ebfd4bb@dbd5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250828T143000Z
+DTSTART:20250828T141500Z
+SUMMARY:🦍 Opening Ceremony
+UID:ce4ca3b8-c144-410a-bf62-37ea84a8798c@ce4c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Listen on SoundCloud: https://soundcloud.com/vikiwikka
 DTEND:20250831T170000Z
 DTSTART:20250831T160000Z
 SUMMARY:🦍 Hard Techno (Viki Wikka)
-UID:9c5c62b0-1c44-4126-892d-4695753ed553@9c5c.org
+UID:a7300f5c-af46-4cc5-810b-1604f1caf752@a730.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250828T160000Z
-DTSTART:20250828T151500Z
-SUMMARY:🦍 Techno (Lucas Brooks)
-UID:0478ddd2-4cb5-4c47-8948-7d295c307818@0478.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250830T163000Z
-DTSTART:20250830T153000Z
-SUMMARY:🦍 Acid Trance (Nuance Music)
-UID:95e33f81-7f0e-4ce4-83f7-d19de1f70bdd@95e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/6I4HkJycCDEW0gT0I0MHX1?si=oniEb4dmRoC0TFuQgKIQhg
-DTEND:20250828T181500Z
-DTSTART:20250828T173000Z
-SUMMARY:🦍 House (Kayrem)
-UID:655831e6-543f-4777-9147-952a99c04f88@6558.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250829T180000Z
-DTSTART:20250829T170000Z
-SUMMARY:🦍 R&B (Deccy Jarrett)
-UID:ab21d75e-c712-4673-a1e8-74683dada718@ab21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250831T151500Z
-DTSTART:20250831T143000Z
-SUMMARY:🦍 Afrobeats / Cuban (Lucas Brooks)
-UID:2854f23a-4dc9-4c5b-affa-f85800b1d460@2854.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250829T224500Z
-DTSTART:20250829T214500Z
-SUMMARY:🦍 House (GRN x VFX+)
-UID:36898d0f-fa7d-41c7-8fd5-e6aed0b283cf@3689.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250831T160000Z
-DTSTART:20250831T151500Z
-SUMMARY:🦍 House (Lucas Brooks)
-UID:cd1a906c-397a-4d33-82d4-5e61c93029f9@cd1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250828T143000Z
-DTSTART:20250828T141500Z
-SUMMARY:🦍 Opening Ceremony
-UID:1869d2cb-6872-483b-b28e-fe4aa9182468@1869.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250830T203000Z
-DTSTART:20250830T193000Z
-SUMMARY:🦍 Indie (Stu Whiffen - Off The Beat & Track)
-UID:4d3c05ee-7a2b-4a07-877c-aa4c72a6bf5f@4d3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/2oeAStiwMW6dU9o90ghgw5
-DTEND:20250828T200000Z
-DTSTART:20250828T191500Z
-SUMMARY:🦍 Drum and Bass (Scratch Bandicoot)
-UID:77913b8d-d125-41f0-bd13-9a9b746c7fa4@7791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/0JtK1DS0VfnfhHfG2X6g2u?si=ZooQfnsdTwK6lXil5sKnxw
-DTEND:20250828T230000Z
-DTSTART:20250828T210000Z
-SUMMARY:🦍 Hip-Hop (DJ Woody)
-UID:e7a0ac8a-c252-45d3-94be-49ae4ff961d8@e7a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250831T010000Z
-DTSTART:20250830T215500Z
-SUMMARY:🦍 Punk (incl. Pop\, Skate\, Ska\, Hardcore & Folk) (Jordan Martin - VCO Founder)
-UID:5aa4ee98-e775-4925-8bee-297fd7c7e015@5aa4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250831T134500Z
-DTSTART:20250831T130000Z
-SUMMARY:🦍 Soul / Funk (Beavs)
-UID:91fd7b25-f04a-42d8-80ac-69c573f604fb@91fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/01e03d_3a1f9f13412d4f54859121a0081dca03~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/Etherwood-500.png">What do they look like?</a>\n\n
+DESCRIPTION:<a href="https://i.imgur.com/Papks9z.png">What do they look like?</a>\n\n
 DTEND:20250831T190000Z
 DTSTART:20250831T180000Z
 SUMMARY:🦍 Etherwood (Drum and Bass)
-UID:e7066031-9397-44dc-8fb0-4f07c3d306e0@e706.org
+UID:d7bdf896-7ffe-49d5-89de-1c1d3887bee6@d7bd.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250831T180000Z
-DTSTART:20250831T170000Z
-SUMMARY:🦍 Metalcore / Deathcore (David Ramms)
-UID:35cff3c7-0602-49fa-b77d-148e6132d649@35cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250829T210000Z
-DTSTART:20250829T200000Z
-SUMMARY:🦍 Nu-Metal / Industrial (Elric Newby)
-UID:4ee130dd-0130-406a-80c6-b7e6af0beb91@4ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://static.wixstatic.com/media/63c3e9_89b34846bf9c466fba3dd3ce339eab2f~mv2.png/v1/fill/w_213\,h_213\,al_c\,q_85\,usm_0.66_1.00_0.01\,enc_avif\,quality_auto/jack%20light_edited.png">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/4XbCACAI3mmUIkOL73aTjv?si=ooCM6SIfSOytcimqemxz0g
-DTEND:20250829T160000Z
-DTSTART:20250829T152000Z
-SUMMARY:🦍 EDM/Rap (Jack Light)
-UID:217a6173-4ad7-4f8d-8f58-6e9249873cac@217a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Watch on Youtube: https://www.youtube.com/shorts/3B35WTLUMbw
-DTEND:20250830T010000Z
-DTSTART:20250829T230000Z
-SUMMARY:🦍 BOSH! (Trance / Drum and Bass)
-UID:9c73a069-1954-41f9-a797-ce69e6906d42@9c73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen On metaldevastationradio: https://www.metaldevastationradio.com/
-DTEND:20250828T173000Z
-DTSTART:20250828T164500Z
-SUMMARY:🦍 Metal - Death / Black / Thrash / NWOBHM / Groove (Elric Newby)
-UID:8c769d63-6bb5-4300-8e89-ab62d4b5eda0@8c76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250830T144500Z
-DTSTART:20250830T140000Z
-SUMMARY:🦍 Amapiano (Lucas Brooks)
-UID:fc2deee3-4e98-4a6e-a855-e44eacda4636@fc2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://media.licdn.com/dms/image/v2/D4E03AQGgLCzxc4nmdg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713271253789?e=1756944000&v=beta&t=grGMb1WUFd_JkSnZ6HGTG6vr-xNhy6CnqqfGhhru_vQ">What do they look like?</a>\n\n
-DTEND:20250831T230000Z
-DTSTART:20250831T210000Z
-SUMMARY:🦍 R&B (Kevin The Vegan)
-UID:e41dfc5a-c633-4878-ae7f-6ed2c8076f41@e41d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250830T214500Z
-DTSTART:20250830T203000Z
-SUMMARY:🦍 Taylor Swift Party (@TaIlys_Art and Emily Clare)
-UID:a1acd453-fad7-4545-8f39-3f2470b5433b@a1ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on SoundCloud: https://soundcloud.com/nawtystep
-DTEND:20250831T200000Z
-DTSTART:20250831T190000Z
-SUMMARY:🦍 Trap (Nawtystep)
-UID:2afb49c3-fda6-4eab-9f5d-3f0dfced6b11@2afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Soundcloud: https://soundcloud.com/dj-lady-lena
-DTEND:20250828T191500Z
-DTSTART:20250828T181500Z
-SUMMARY:🦍 Jungle (DJ Lady Lena)
-UID:35904621-1ba3-4b3b-99e9-d19983ff9202@3590.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250830T193000Z
-DTSTART:20250830T183000Z
-SUMMARY:🦍 Drum and Bass (George Martin - Carnism Debunked)
-UID:d32b3b63-0065-4541-87f5-b9875a6fa698@d32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250828T204500Z
-DTSTART:20250828T200000Z
-SUMMARY:🦍 Garage (Lucas Brooks)
-UID:60b9f769-1e97-4355-b6c7-faf0cbf826cf@60b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250829T200000Z
-DTSTART:20250829T190000Z
-SUMMARY:🦍 Emo (Chris Hines)
-UID:2d8087a9-eb16-497d-a379-a7aabb230d44@2d80.org
+DESCRIPTION:<a href="https://i.imgur.com/M9zGDPn.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/6I4HkJycCDEW0gT0I0MHX1?si=oniEb4dmRoC0TFuQgKIQhg
+DTEND:20250828T181500Z
+DTSTART:20250828T173000Z
+SUMMARY:🦍 House (Kayrem)
+UID:c83719e0-aa07-4ab6-a474-7a0aa822b714@c837.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://media.licdn.com/dms/image/v2/D4E03AQGgLCzxc4nmdg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713271253789?e=1756944000&v=beta&t=grGMb1WUFd_JkSnZ6HGTG6vr-xNhy6CnqqfGhhru_vQ">What do they look like?</a>\n\n
 DTEND:20250828T164500Z
 DTSTART:20250828T160000Z
 SUMMARY:🦍 Indie (Kevin The Vegan)
-UID:347754dc-75b1-48c0-ab8a-859f279ef092@3477.org
+UID:24651609-3878-4c03-9023-a40d8c904f3d@2465.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250829T144000Z
-DTSTART:20250829T140000Z
-SUMMARY:🦍 Psychedelic / Ecstatic Dance (Abi Nimmo)
-UID:5bc8cac3-09ac-4926-babf-f04c79259bde@5bc8.org
+DESCRIPTION:Watch on Youtube: https://www.youtube.com/shorts/3B35WTLUMbw
+DTEND:20250830T010000Z
+DTSTART:20250829T230000Z
+SUMMARY:🦍 BOSH! (Trance / Drum and Bass)
+UID:408771b1-d14a-4ce7-8f12-7061bc0dfcf1@4087.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
-DTEND:20250828T151500Z
-DTSTART:20250828T143000Z
-SUMMARY:🦍 Bassline (Lucas Brooks)
-UID:319d63f6-2bf7-44d6-9e9d-795566070603@319d.org
+DTEND:20250831T210000Z
+DTSTART:20250831T200000Z
+SUMMARY:🦍 Pop (Chris Hines)
+UID:4e2e07e8-7195-41bf-96ec-aa16e5c80188@4e2e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250829T152000Z
-DTSTART:20250829T144000Z
-SUMMARY:🦍 Gabber / Hard House (Morgan Thomas)
-UID:12a94c1c-473c-4a5f-9507-e64bd14fb36d@12a9.org
-END:VEVENT
-BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/wJvMofX.jpeg">What do they look like?</a>\n\nhttps://soundcloud.com/tahnee-kaya
 DTEND:20250830T153000Z
 DTSTART:20250830T144500Z
 SUMMARY:🦍 Ska (Tahnee Kaya)
-UID:730afd3a-14b1-46f0-a84c-dac555f1e64e@730a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250830T183000Z
-DTSTART:20250830T173000Z
-SUMMARY:🦍 Jungle (Lioness Power)
-UID:512799e5-6ae2-4130-b7a8-51c0e61a9a4e@5127.org
+UID:0dd3f592-7a7f-4c98-a4fc-91de0f738ea9@0dd3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250829T214500Z
 DTSTART:20250829T210000Z
 SUMMARY:🦍 Techno / Tech House (CYNA)
-UID:7ce60e8d-0b32-4a40-91ff-e10424329970@7ce6.org
+UID:a25404d8-2ff6-4973-aa4e-843efb71be20@a254.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250830T144500Z
+DTSTART:20250830T140000Z
+SUMMARY:🦍 Amapiano (Lucas Brooks)
+UID:b0df1e8b-f513-4afa-860f-85a7637ab82d@b0df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Listen on SoundCloud: https://soundcloud.com/nawtystep
+DTEND:20250831T200000Z
+DTSTART:20250831T190000Z
+SUMMARY:🦍 Trap (Nawtystep)
+UID:2f5cc518-75a8-4e67-a3a8-e4619015b3bf@2f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/JGE01fD.jpeg">What do they look like?</a>\n\nhttps://open.spotify.com/artist/2Y2OW4zUqEd2LVAKsmz6JE?si=GDZucza-RVuIKGCOMNHvlA
+DTEND:20250830T173000Z
+DTSTART:20250830T163000Z
+SUMMARY:🦍 Dubstep (Billund the Kid)
+UID:73c32c0a-2752-488a-b51d-eea7a6a99765@73c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/GBCA5kS.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/2oeAStiwMW6dU9o90ghgw5
+DTEND:20250828T200000Z
+DTSTART:20250828T191500Z
+SUMMARY:🦍 Drum and Bass (Scratch Bandicoot)
+UID:c56eded7-1bf4-4029-913b-60b566aa7c74@c56e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250829T210000Z
+DTSTART:20250829T200000Z
+SUMMARY:🦍 Nu-Metal / Industrial (Elric Newby)
+UID:fcec4c3b-39b0-4925-a8d2-66740c03f104@fcec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/Kepn7tF.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/0JtK1DS0VfnfhHfG2X6g2u?si=ZooQfnsdTwK6lXil5sKnxw
+DTEND:20250828T230000Z
+DTSTART:20250828T210000Z
+SUMMARY:🦍 Hip-Hop (DJ Woody)
+UID:61a87dc9-ceb6-4be3-ad87-70109815dc58@61a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250831T010000Z
+DTSTART:20250830T215500Z
+SUMMARY:🦍 Punk (incl. Pop\, Skate\, Ska\, Hardcore & Folk) (Jordan Martin - VCO Founder)
+UID:b6c52264-3d7a-4854-8955-a2e3b6dc15ab@b6c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250830T163000Z
+DTSTART:20250830T153000Z
+SUMMARY:🦍 Acid Trance (Nuance Music)
+UID:a2d22b79-c99a-40bb-8f72-92127e367fe5@a2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250829T224500Z
+DTSTART:20250829T214500Z
+SUMMARY:🦍 House (GRN x VFX+)
+UID:92515d92-7212-4e7c-bf09-ebe97635b200@9251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/IAfHQfZ.jpeg">What do they look like?</a>\n\n
+DTEND:20250828T160000Z
+DTSTART:20250828T151500Z
+SUMMARY:🦍 Techno (Lucas Brooks)
+UID:2ac28a5c-9ef1-4149-9def-7e958d69e3c4@2ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250831T151500Z
+DTSTART:20250831T143000Z
+SUMMARY:🦍 Afrobeats / Cuban (Lucas Brooks)
+UID:be980777-6007-48ed-8bf3-1cf734ade8f9@be98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/IAfHQfZ.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250829T190000Z
+DTSTART:20250829T180000Z
+SUMMARY:🦍 Grime (Lucas Brooks)
+UID:02b962da-958a-42f2-96e6-4675a58f58d3@02b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/d83ISaA.jpeg">What do they look like?</a>\n\nListen on Soundcloud: https://soundcloud.com/lionesspower
+DTEND:20250829T170000Z
+DTSTART:20250829T160000Z
+SUMMARY:🦍 Reggae (Lioness Power)
+UID:9c4a1940-44a5-462d-ba7a-cbf54011e357@9c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Listen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250831T143000Z
+DTSTART:20250831T134500Z
+SUMMARY:🦍 Reggae (Lucas Brooks)
+UID:ccbd7e1b-cecc-4783-a6a8-7f60b2b7da34@ccbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://media.licdn.com/dms/image/v2/D4E03AQGgLCzxc4nmdg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1713271253789?e=1756944000&v=beta&t=grGMb1WUFd_JkSnZ6HGTG6vr-xNhy6CnqqfGhhru_vQ">What do they look like?</a>\n\n
+DTEND:20250831T230000Z
+DTSTART:20250831T210000Z
+SUMMARY:🦍 R&B (Kevin The Vegan)
+UID:f76c729a-7318-49d2-a6c2-e45e74561fd2@f76c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/Gp1jTP3.jpeg">What do they look like?</a>\n\nListen on Soundcloud: https://soundcloud.com/dj-lady-lena
+DTEND:20250828T191500Z
+DTSTART:20250828T181500Z
+SUMMARY:🦍 Jungle (DJ Lady Lena)
+UID:5e04b429-1ad3-421e-8f5a-474af4a32ed2@5e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/IAfHQfZ.jpeg">What do they look like?</a>\n\nListen on Spotify: https://open.spotify.com/artist/3N1WSzRzXRC5Wng7epPRhN
+DTEND:20250828T204500Z
+DTSTART:20250828T200000Z
+SUMMARY:🦍 Garage (Lucas Brooks)
+UID:df28306a-744a-4279-a902-a47d85f90343@df28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/d83ISaA.jpeg">What do they look like?</a>\n\nListen on Soundcloud: https://soundcloud.com/lionesspower
+DTEND:20250830T183000Z
+DTSTART:20250830T173000Z
+SUMMARY:🦍 Jungle (Lioness Power)
+UID:e5b38468-4106-4ca4-98b3-f9b97985010b@e5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250830T203000Z
+DTSTART:20250830T193000Z
+SUMMARY:🦍 Indie (Stu Whiffen - Off The Beat & Track)
+UID:21607b73-d88e-4a2f-8118-2948d7a6fcb9@2160.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250831T180000Z
+DTSTART:20250831T170000Z
+SUMMARY:🦍 Metalcore / Deathcore (David Ramms)
+UID:82182d40-11d6-4b90-b6b8-084039e3673a@8218.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250830T214500Z
+DTSTART:20250830T203000Z
+SUMMARY:🦍 Taylor Swift Party (@TaIlys_Art and Emily Clare)
+UID:49c6376e-10e6-4025-a577-3568e1ff638c@49c6.org
 END:VEVENT
 END:VCALENDAR
