@@ -1,111 +1,111 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:VCO Main Stage
-X-WR-CALDESC: VCO events happening in the Main Stage tent
+X-WR-CALDESC:VCO events happening in the Main Stage tent
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/vajmR7n.png">What do they look like?</a>\n\nBOSH! Culinary influencers Henry Firth and Ian Theasby\, aka BOSH!\, are the godfathers of the plant-based movement. For nine years\, they’ve been putting more plants on plates for the benefit of animals\, the environment\, and human health. They’re the world’s best-selling plant-based cookbook authors\, and their debut cookbook holds the title of top-selling plant-based cookbook of all time. Gordon Ramsay praised BOSH! for “putting vegan food on the map\,” and The Times called them “the vegan Jamie Olivers.” Henry and Ian hosted the world’s first 100% plant-based cookery show\, and their videos have over 4 billion views on social media. BOSH! products are in all major supermarkets\, and their food is available in hospitality venues nationwide. BOSH! remain committed to their mission to make plant-based food mainstream.
-DTEND:20250830T193500Z
-DTSTART:20250830T183500Z
-SUMMARY:👨‍🎤 BOSH!
-UID:d61f5c88-b177-44a2-9c0a-d632d6566b67@d61f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/daJW0zd.png">What do they look like?</a>\n\nTash is an animal rights activist based in Perth\, Western Australia\, known for her bold and attention-grabbing approach activism. She has been featured in prominent media outlets such as UniLad\, the New York Post\, Sky News Australia\, and Piers Morgan Uncensored (UK)\, and her activism has been covered nationally on The Project and Flashpoint Australia. Tash’s work highlights the pervasive issue of speciesism and aims to abolish all forms of animal exploitation and slavery. Her controversial style\, which often includes acts of civil disobedience\, serves as a catalyst for social awareness and change\, as she believes media exposure is essential to raising visibility for animal rights. Through her activism\, Tash seeks to challenge societal norms\, advocating for a world where animals are no longer viewed as property or commodities but as beings with intrinsic rights.
-DTEND:20250831T134000Z
-DTSTART:20250831T131000Z
-SUMMARY:👨‍🎤 Tash Peterson
-UID:8c8148df-1841-44c4-90a1-21bc31d012d2@8c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/zoxrIyk.png">What do they look like?</a>\n\nEmily Moran Barwick was born with a fierce sense of justice. Whether authoring essays on the experiences of children in the foster care system at age six\, or educating door-to-door about endangered species at age seven\, Emily’s advocacy took root at a very early age. After completing her Masters of Fine Arts\, Emily founded Bite Size Vegan\, while also starting down the path of medical school. In an uncharacteristic move\, Emily decided to throw herself full time into Bite Size Vegan\, despite being rather terrified of technology and having no experience with video creation or social media. Driven by passion\, conviction\, and no small amount of inhuman Autistic intensity\, Emily took on the research\, writing\, filming\, animating\, editing\, website development\, nonprofit accounting\, social media management\, and myriad other simultaneous responsibilities of single-handedly running Bite Size Vegan.
-DTEND:20250830T112500Z
-DTSTART:20250830T110000Z
-SUMMARY:👨‍🎤 Bite Size Vegan
-UID:ae8a6821-ee9d-4e5e-9ff9-543b955ab385@ae8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/CwObJs6.png">What do they look like?</a>\n\nCalum Harris has been captivating audiences since 2019 with his plant-based recipes. His mission is clear: inspire more people to embrace vegan cooking that is both tasty and nutritious. His best-selling debut book\, 'The 20-Minute Vegan' and accolades such as Fortnum & Mason’s Content Creator of the Year nominee epitomise his impact on the food landscape. His latest book 'Proper Healthy' launches on 2nd January 2024 and includes 80 plant-based recipes with a boost.
-DTEND:20250831T112000Z
-DTSTART:20250831T105500Z
-SUMMARY:👨‍🎤 Calum Harris
-UID:cf16391f-81b4-4e95-b6e4-552c82a75f83@cf16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/vd1MzKn.png">What do they look like?</a>\n\nFormerly the frontman of MTV’s Dirty Sanchez\, Matt has left his pranking days behind for his love of vegan food\, health and fitness. Matt’s first cooking series\, Dirty Vegan\, premiered on BBC 1 Wales to wide acclaim\, coinciding with his cookbook of the same name. Following the brand’s success\, Matt published a second cookbook\, Dirty Vegan: Another Bite\, followed by his second instalment of Dirty Vegan TV on BBC Wales. The second series encouraged the public to try Veganuary and consider a much healthier lifestyle. Matt has also undertaken some of the most extreme sporting challenges\, including breaking a world record when he completed 30 half Iron Man events in 30 days\, raising thousands for charity. A professional skateboarder and stunt performer\, Matt also owns the Sleep When You’re Dead Tattoo & Barbour shop in Cardiff and recently started his own plant based supplement company along with a fitness & nutrition platform under the name Dirty Health.
-DTEND:20250831T160000Z
-DTSTART:20250831T153000Z
-SUMMARY:👨‍🎤 Matt Pritchard
-UID:12fa1513-fcba-42e6-a935-4aeb98071ef7@12fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/d8P72TE.png">What do they look like?</a>\n\nRose was born in South Korea and raised in Canada. She started off posting her first 'Cheap Lazy Vegan' video on YouTube back in May of 2015 while she was living in London with the intention of just sharing her own thoughts & beliefs about veganism\; as well as sharing easy and affordable vegan meal ideas. She was determined to show the world that vegan food can be cheap\, lazy AND delicious! She wants to show her fellow humans that being a vegan is not difficult OR expensive\, and that it's just a simple change in mindset and lifestyle and hopes people find her content educational\, inspirational\, funny and witty. But most importantly\, aims to build a community where we can all come together for the love of vegan food and our furry friends!
-DTEND:20250830T164500Z
-DTSTART:20250830T161500Z
-SUMMARY:👨‍🎤 Cheap Lazy Vegan
-UID:b86a8c7f-45bc-4486-b301-a2f490af4fa4@b86a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/D9LZThO.jpeg">What do they look like?</a>\n\nLaura-Lisa Hellwig is Managing Director and Head of Campaigns at Viva!\, Europe’s largest vegan charity. She leads impactful campaigns exposing factory farm abuses and promoting plant-based policies. Fluent in multiple languages\, she champions animal rights\, environmental sustainability\, and social justice\, helping advance veganism across the UK through education and advocacy.
-DTEND:20250830T142500Z
-DTSTART:20250830T135500Z
-SUMMARY:👨‍🎤 Laura-Lisa Hellwig (Viva!)
-UID:ea4acd8f-82df-4e47-8e22-48953e4c3f74@ea4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/7buhBz2.png">What do they look like?</a>\n\nKip Andersen is an American filmmaker\, producer\, writer\, entrepreneur\, and the founder of Animals United Movement (A.U.M.) Films and Media\, a 501(c)(3) organization which focuses on promoting awareness and equality for all life. He is known for his documentary films such as Cowspiracy: The Sustainability Secret\, What the Health\, Seaspiracy\, and Christspiracy.
-DTEND:20250831T171000Z
-DTSTART:20250831T164000Z
-SUMMARY:👨‍🎤 Kip Andersen (Cowspiracy / Seaspiracy)
-UID:c1a3903f-29fb-4068-a28f-f63ef423bf21@c1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/2nHhPfh.png">What do they look like?</a>\n\nSara Pascoe is a comedian and author. Her TV appearances include QI\, Have I Got News for You?\, Taskmaster\, 8 out of 10 Cats\, Mock the Week and The Last Leg. She's hosted Live at the Apollo (BBC)\, Guessable (Comedy Central)\, The Great British Sewing Bee (BBC1) and others. Her comedy special LadsLadsLads was filmed at the London Palladium and shown on BBC2. Her first book Animal: the Autobiography of a female body was published in 2016 and inspired the BBC short Sara Pascoe versus Monogamy. This was turned into the BBC sitcom Out of Her Mind produced by Simon Pegg and starred Juliet Stevenson. Her second book Sex Power Money was a Sunday Times Bestseller and the accompanying podcast acquired award nominations and millions of listeners. Sara published her first novel\, Weirdo\, in 2023 to critical acclaim and was WHSmith’s ‘Book of the Moment’. Her new comedy show ‘I am a Strange Gloop’ tours worldwide 2025-2026.
-DTEND:20250831T182000Z
-DTSTART:20250831T175000Z
-SUMMARY:👨‍🎤 Sara Pascoe
-UID:9a792692-51b1-4ef4-b1cd-69d0cb057789@9a79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/6cqeCAg.png">What do they look like?</a>\n\nZacchary Bird is a writer and vegan recipe developer based in Melbourne\, Australia\, with a penchant for plant-based burgers. His first book is called "Vegan Junk Food".
-DTEND:20250830T153500Z
-DTSTART:20250830T150500Z
-SUMMARY:👨‍🎤 Zacchary Bird
-UID:e37e7097-f5bf-4769-aa7f-2f8974728dd0@e37e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://i.imgur.com/0GNXiZU.png">What do they look like?</a>\n\nIn 1994 Juliet founded Viva! - the biggest vegan charity in Europe. She also launched Viva! Poland in 2001 - one of the biggest animal protection groups in Central Europe. Juliet has created and launched numerous campaigns and written several reports\, guides and books\, including The Silent Ark\, Born to be Wild\, Vegan New Parents’ Guide\, Healthy Vegan Kids\, Why You Don’t Need Dairy and Nutrition in a Nutshell. She has filmed and exposed many factory farms\, severely embarrassing major companies and supermarkets - many of which changed policies. Juliet filmed at the notorious Hogwood pig farm that supplied Tesco\, and is producer of the documentary\, Hogwood: a modern horror story\, airing on Netflix in 2022. Juliet and her team created the first vegan cinema ad and Viva!’s first vegan TV ad. Juliet is an inspirational\, fun and informative speaker and has made many media appearances across the world. She has a degree in zoology and psychology\; diploma in direct marketing and is a qualified nutritional therapist. Visit viva.org.uk
-DTEND:20250831T145000Z
-DTSTART:20250831T142000Z
-SUMMARY:👨‍🎤 Juliet Gellatley (Viva!)
-UID:db04e7a3-30de-4474-a3da-0a764c79aa42@db04.org
-END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://i.imgur.com/8Wfw6Aa.png">What do they look like?</a>\n\nHeather Mills is the founder of the award-winning plant-based ethical Vegan food company VBites. In 1993 Heather suffered the loss of her left leg below the knee due to an accident. To save her amputated leg from constant infections she went on a plant-based diet which lead her years later to create the pioneering International Plant-Based ethical Vegan food company\, VBites\, which exports to 24 countries\, offers 130 plant-based products and has won 80 awards. Heather also owns 600\,000sq ft of plant-based manufacturing facilities\, a vegan makeup and algal oil range\, and a venture start-up company.
 DTEND:20250830T131500Z
 DTSTART:20250830T124500Z
 SUMMARY:👨‍🎤 Heather Mills
-UID:46836d25-797a-4ef1-ae1b-f521662bc779@4683.org
+UID:1da1d64d-f1a7-4c96-ae86-15f9660789f2@1da1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://i.imgur.com/pqDiy0f.png">What do they look like?</a>\n\nDale Vince\, is a green industrialist who has dedicated his life to championing environmental sustainability. Since founding the world's first green energy company\, Ecotricity\, in 1996 he has been on a mission to change the face of the industry by leading the move away from fossil fuels towards renewables. Using business as a tool for environmentalism\, Dale is helping to lead the eco revolution. He runs Forest Green Rovers FC\, recognised as the world’s first vegan football club\; creates diamonds out of atmospheric carbon - Skydiamonds\; builds windmills for export around the world – Britwind\; has launched a range of vegan burgers and last year launched the world’s first electric airline Ecojet. In 2004\, he was awarded an OBE for services to the environment and was appointed the UN Ambassador for Climate Change in 2019.
 DTEND:20250830T175500Z
 DTSTART:20250830T172500Z
 SUMMARY:👨‍🎤 Dale Vince (Ecotricity)
-UID:cc4fc1aa-5519-4dd1-a4b7-1a6626641030@cc4f.org
+UID:35745563-8249-41d3-9d00-f68edcf0ca94@3574.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://i.imgur.com/9gTCSFN.png">What do they look like?</a>\n\nAlexis Gauthier is a celebrated French chef and London restauranteur\, renowned for his pioneering shift to vegan fine dining. A classically trained chef from Avignon\, Alexis began his career under Three-Michelin-Starred Chef Alain Ducasse\, cultivating a fresh\, ingredient-led cooking style. After holding Michelin stars for 12 years\, Alexis became vegan in 2016\, driven by a commitment to sustainability and animal welfare. By 2021\, he transformed his acclaimed restaurant\, Gauthier Soho\, into the world’s first classical French vegan fine-dining establishment\, a move applauded by PETA with the UK Best Vegan Menu Award. Adding to his plant-based portfolio\, he launched the casual 123V in Mayfair\, London. Now a frequent speaker on sustainable cuisine\, Alexis continues to push culinary boundaries\, redefining French gastronomy through an entirely animal-free lens.
 DTEND:20250831T123000Z
 DTSTART:20250831T120000Z
 SUMMARY:👨‍🎤 Alexis Gauthier
-UID:de47f467-cdfa-46ad-8405-b9c959145092@de47.org
+UID:7aa87e4a-91ab-4537-a285-32b5f99ffba7@7aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/daJW0zd.png">What do they look like?</a>\n\nTash is an animal rights activist based in Perth\, Western Australia\, known for her bold and attention-grabbing approach activism. She has been featured in prominent media outlets such as UniLad\, the New York Post\, Sky News Australia\, and Piers Morgan Uncensored (UK)\, and her activism has been covered nationally on The Project and Flashpoint Australia. Tash’s work highlights the pervasive issue of speciesism and aims to abolish all forms of animal exploitation and slavery. Her controversial style\, which often includes acts of civil disobedience\, serves as a catalyst for social awareness and change\, as she believes media exposure is essential to raising visibility for animal rights. Through her activism\, Tash seeks to challenge societal norms\, advocating for a world where animals are no longer viewed as property or commodities but as beings with intrinsic rights.
+DTEND:20250831T134000Z
+DTSTART:20250831T131000Z
+SUMMARY:👨‍🎤 Tash Peterson
+UID:6d16374c-2cea-4df0-82cb-39ebc4880f50@6d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/6cqeCAg.png">What do they look like?</a>\n\nZacchary Bird is a writer and vegan recipe developer based in Melbourne\, Australia\, with a penchant for plant-based burgers. His first book is called "Vegan Junk Food".
+DTEND:20250830T153500Z
+DTSTART:20250830T150500Z
+SUMMARY:👨‍🎤 Zacchary Bird
+UID:fe8d63b3-a92d-482e-ac31-41a63cdfd5a2@fe8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/zoxrIyk.png">What do they look like?</a>\n\nEmily Moran Barwick was born with a fierce sense of justice. Whether authoring essays on the experiences of children in the foster care system at age six\, or educating door-to-door about endangered species at age seven\, Emily’s advocacy took root at a very early age. After completing her Masters of Fine Arts\, Emily founded Bite Size Vegan\, while also starting down the path of medical school. In an uncharacteristic move\, Emily decided to throw herself full time into Bite Size Vegan\, despite being rather terrified of technology and having no experience with video creation or social media. Driven by passion\, conviction\, and no small amount of inhuman Autistic intensity\, Emily took on the research\, writing\, filming\, animating\, editing\, website development\, nonprofit accounting\, social media management\, and myriad other simultaneous responsibilities of single-handedly running Bite Size Vegan.
+DTEND:20250830T112500Z
+DTSTART:20250830T110000Z
+SUMMARY:👨‍🎤 Bite Size Vegan
+UID:019132b4-01d9-49f3-8440-ba5121d563bd@0191.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/D9LZThO.jpeg">What do they look like?</a>\n\nLaura-Lisa Hellwig is Managing Director and Head of Campaigns at Viva!\, Europe’s largest vegan charity. She leads impactful campaigns exposing factory farm abuses and promoting plant-based policies. Fluent in multiple languages\, she champions animal rights\, environmental sustainability\, and social justice\, helping advance veganism across the UK through education and advocacy.
+DTEND:20250830T142500Z
+DTSTART:20250830T135500Z
+SUMMARY:👨‍🎤 Laura-Lisa Hellwig (Viva!)
+UID:393ed585-8f9b-4bad-bc04-a69415313be7@393e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/7buhBz2.png">What do they look like?</a>\n\nKip Andersen is an American filmmaker\, producer\, writer\, entrepreneur\, and the founder of Animals United Movement (A.U.M.) Films and Media\, a 501(c)(3) organization which focuses on promoting awareness and equality for all life. He is known for his documentary films such as Cowspiracy: The Sustainability Secret\, What the Health\, Seaspiracy\, and Christspiracy.
+DTEND:20250831T171000Z
+DTSTART:20250831T164000Z
+SUMMARY:👨‍🎤 Kip Andersen (Cowspiracy / Seaspiracy)
+UID:5cb4c6c2-dacb-469b-a1a7-d8f90d77c697@5cb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/2nHhPfh.png">What do they look like?</a>\n\nSara Pascoe is a comedian and author. Her TV appearances include QI\, Have I Got News for You?\, Taskmaster\, 8 out of 10 Cats\, Mock the Week and The Last Leg. She's hosted Live at the Apollo (BBC)\, Guessable (Comedy Central)\, The Great British Sewing Bee (BBC1) and others. Her comedy special LadsLadsLads was filmed at the London Palladium and shown on BBC2. Her first book Animal: the Autobiography of a female body was published in 2016 and inspired the BBC short Sara Pascoe versus Monogamy. This was turned into the BBC sitcom Out of Her Mind produced by Simon Pegg and starred Juliet Stevenson. Her second book Sex Power Money was a Sunday Times Bestseller and the accompanying podcast acquired award nominations and millions of listeners. Sara published her first novel\, Weirdo\, in 2023 to critical acclaim and was WHSmith’s ‘Book of the Moment’. Her new comedy show ‘I am a Strange Gloop’ tours worldwide 2025-2026.
+DTEND:20250831T182000Z
+DTSTART:20250831T175000Z
+SUMMARY:👨‍🎤 Sara Pascoe
+UID:87d2a475-9884-4868-8a79-7629a57fc6f3@87d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/CwObJs6.png">What do they look like?</a>\n\nCalum Harris has been captivating audiences since 2019 with his plant-based recipes. His mission is clear: inspire more people to embrace vegan cooking that is both tasty and nutritious. His best-selling debut book\, 'The 20-Minute Vegan' and accolades such as Fortnum & Mason’s Content Creator of the Year nominee epitomise his impact on the food landscape. His latest book 'Proper Healthy' launches on 2nd January 2024 and includes 80 plant-based recipes with a boost.
+DTEND:20250831T112000Z
+DTSTART:20250831T105500Z
+SUMMARY:👨‍🎤 Calum Harris
+UID:05602f3d-c329-4b3b-8752-ad2b28ea98b8@0560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/d8P72TE.png">What do they look like?</a>\n\nRose was born in South Korea and raised in Canada. She started off posting her first 'Cheap Lazy Vegan' video on YouTube back in May of 2015 while she was living in London with the intention of just sharing her own thoughts & beliefs about veganism\; as well as sharing easy and affordable vegan meal ideas. She was determined to show the world that vegan food can be cheap\, lazy AND delicious! She wants to show her fellow humans that being a vegan is not difficult OR expensive\, and that it's just a simple change in mindset and lifestyle and hopes people find her content educational\, inspirational\, funny and witty. But most importantly\, aims to build a community where we can all come together for the love of vegan food and our furry friends!
+DTEND:20250830T164500Z
+DTSTART:20250830T161500Z
+SUMMARY:👨‍🎤 Cheap Lazy Vegan
+UID:c1d52b51-3210-436a-b3e4-e3e31aba54b3@c1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/0GNXiZU.png">What do they look like?</a>\n\nIn 1994 Juliet founded Viva! - the biggest vegan charity in Europe. She also launched Viva! Poland in 2001 - one of the biggest animal protection groups in Central Europe. Juliet has created and launched numerous campaigns and written several reports\, guides and books\, including The Silent Ark\, Born to be Wild\, Vegan New Parents’ Guide\, Healthy Vegan Kids\, Why You Don’t Need Dairy and Nutrition in a Nutshell. She has filmed and exposed many factory farms\, severely embarrassing major companies and supermarkets - many of which changed policies. Juliet filmed at the notorious Hogwood pig farm that supplied Tesco\, and is producer of the documentary\, Hogwood: a modern horror story\, airing on Netflix in 2022. Juliet and her team created the first vegan cinema ad and Viva!’s first vegan TV ad. Juliet is an inspirational\, fun and informative speaker and has made many media appearances across the world. She has a degree in zoology and psychology\; diploma in direct marketing and is a qualified nutritional therapist. Visit viva.org.uk
+DTEND:20250831T145000Z
+DTSTART:20250831T142000Z
+SUMMARY:👨‍🎤 Juliet Gellatley (Viva!)
+UID:45910934-0934-4ed1-8458-31f33993aadf@4591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/vd1MzKn.png">What do they look like?</a>\n\nFormerly the frontman of MTV’s Dirty Sanchez\, Matt has left his pranking days behind for his love of vegan food\, health and fitness. Matt’s first cooking series\, Dirty Vegan\, premiered on BBC 1 Wales to wide acclaim\, coinciding with his cookbook of the same name. Following the brand’s success\, Matt published a second cookbook\, Dirty Vegan: Another Bite\, followed by his second instalment of Dirty Vegan TV on BBC Wales. The second series encouraged the public to try Veganuary and consider a much healthier lifestyle. Matt has also undertaken some of the most extreme sporting challenges\, including breaking a world record when he completed 30 half Iron Man events in 30 days\, raising thousands for charity. A professional skateboarder and stunt performer\, Matt also owns the Sleep When You’re Dead Tattoo & Barbour shop in Cardiff and recently started his own plant based supplement company along with a fitness & nutrition platform under the name Dirty Health.
+DTEND:20250831T160000Z
+DTSTART:20250831T153000Z
+SUMMARY:👨‍🎤 Matt Pritchard
+UID:66692d75-60a4-4d5f-b29f-585049cd5ef1@6669.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://i.imgur.com/xVan71m.png">What do they look like?</a>\n\nPatrik Baboumian is a former professional athlete\, a public speaker and a psychologist. He has written three books\, given numerous talks all over the world and is best known for being part of The Game Changers documentary. Baboumian went vegan 11 years ago and he continues to travel the world on his mission to fight a false narrative around sports nutrition and animal protein. In his talk at Vegan Camp Out he will go in-depth on the topic of plant-based nutrition in sports and explain why going vegan helped him accelerate his athletic development even after 25 years of competitive strength sports and how it helped him to stay heathy after his career as a professional strongman.
 DTEND:20250830T121000Z
 DTSTART:20250830T114500Z
 SUMMARY:👨‍🎤 Patrik Baboumian
-UID:6c7e4550-ff4a-42ec-bcbb-1fa6ad3761c2@6c7e.org
+UID:b0d668ae-9e61-4129-9320-7584a108e56a@b0d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://i.imgur.com/vajmR7n.png">What do they look like?</a>\n\nBOSH! Culinary influencers Henry Firth and Ian Theasby\, aka BOSH!\, are the godfathers of the plant-based movement. For nine years\, they’ve been putting more plants on plates for the benefit of animals\, the environment\, and human health. They’re the world’s best-selling plant-based cookbook authors\, and their debut cookbook holds the title of top-selling plant-based cookbook of all time. Gordon Ramsay praised BOSH! for “putting vegan food on the map\,” and The Times called them “the vegan Jamie Olivers.” Henry and Ian hosted the world’s first 100% plant-based cookery show\, and their videos have over 4 billion views on social media. BOSH! products are in all major supermarkets\, and their food is available in hospitality venues nationwide. BOSH! remain committed to their mission to make plant-based food mainstream.
+DTEND:20250830T193500Z
+DTSTART:20250830T183500Z
+SUMMARY:👨‍🎤 BOSH!
+UID:667cb500-20e5-4cff-b333-3dbcf3ac41fa@667c.org
 END:VEVENT
 END:VCALENDAR
