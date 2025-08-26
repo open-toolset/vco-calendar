@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:VCO Unofficial Events
+X-WR-CALDESC:VCO events happening in the Unofficial Events tent
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Rescue not Retail is a brand new campaign group\, raising awareness of the pet trade and the victims suffering within it. The pet trade is an often forgotten industry within vegan and animal rights movements\, but full of suffering and cruelty.
+DTEND:20250830T103000Z
+DTSTART:20250830T093000Z
+SUMMARY:➕ Taking On The Pet Trade Meetup - Rescue Not Retail - Outside Education Tent
+UID:8c17e540-dad6-4398-8718-af21d98116df@8c17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250829T155900Z
+DTSTART:20250829T145900Z
+SUMMARY:➕ Sober / Sober Curious Meetup - Outside Mind & Body Tent
+UID:6e24e6d2-10d1-4d91-a355-080accb4f6ba@6e24.org
+END:VEVENT
+END:VCALENDAR
